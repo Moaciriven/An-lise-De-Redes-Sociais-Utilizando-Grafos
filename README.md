@@ -59,4 +59,3 @@
 
 - **A rede é densa ou esparsa? O que isso indica?**  
   A rede é **esparsa**, o que mostra dependência de poucos hubs para manter a conectividade global.  
-# An-lise-De-Redes-Sociais-Utilizando-Grafos
