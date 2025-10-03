@@ -1,0 +1,4 @@
+Questão 3: Teste o algoritmo com diferentes fatores de amortecimento (α = 0,5, 0,85 e
+0,95). Como mudam os rankings? Explique o efeito deste parâmetro.
+
+Quanto maior α(alfa) mais o PageRank depende da estrutura de links, os nós centrais (com muitos inlinks ou recebendo de hubs) ficam mais fortes; porém a convergência fica mais lenta, no caso de 0,95 18 iterações. Quanto menor α mais os valores se achatam (mais próximos de 1/N), perdendo contraste, e convergem mais rápido, no caso de 0,5 4 iterações.

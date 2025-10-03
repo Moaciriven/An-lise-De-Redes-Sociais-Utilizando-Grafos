@@ -1,0 +1,41 @@
+Parte 3: Questões 10, 11 e 12 — Casos de estudo
+
+Questão 10 — Top 5 PageRank (United_States):
+
+Recebe links de 1551 artigos
+
+Aponta para 294 artigos
+
+Explicação: alto PR porque é citado por diversos artigos centrais e aponta para artigos importantes → hub central da rede.
+
+Questão 11 — Alto grau de saída, PR baixo:
+
+Driving_on_the_left_or_right → Out-degree: 255, PR: 0.00003
+
+List_of_lakes → Out-degree: 109, PR: 0.00003
+
+Periodic_table_%28large_version%29 → Out-degree: 118, PR: 0.00004
+
+Economy_of_Africa → Out-degree: 101, PR: 0.00005
+
+History_of_South_Africa → Out-degree: 105, PR: 0.00006
+
+Interpretação:
+
+Muitos links de saída não geram PageRank alto.
+
+PageRank depende de quem te cita, não apenas de quantos links você faz.
+
+Questão 12 — Artigo ponte (English_language):
+
+Recebe links de 598 artigos de várias categorias
+
+Aponta para 118 artigos de diferentes categorias
+
+PageRank: 0.00486
+
+Interpretação:
+
+Atua como ponte entre áreas → conecta comunidades distintas da rede
+
+Sua posição estratégica garante PageRank relativamente alto, mesmo sem ser o maior hub absoluto.

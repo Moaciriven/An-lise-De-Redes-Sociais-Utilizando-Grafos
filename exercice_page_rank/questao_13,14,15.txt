@@ -1,0 +1,29 @@
+Questão 13 — O que o PageRank mede?
+
+PageRank mede autoridade e importância estrutural, não só popularidade.
+
+Ex.: United_States tem alto PR porque é citado por artigos centrais;
+
+Latin aparece no top 10 de PR mesmo com menos links → PageRank privilegia quem te cita, não só quantidade.
+
+London tem alto in-degree, mas PR menor → popularidade bruta ≠ autoridade.
+
+Questão 14 — Limitações do PageRank
+
+Não avalia qualidade ou completude do artigo.
+
+Ignora relevância semântica e utilidade prática.
+
+Desfavorece artigos de níche, mesmo importantes.
+
+Links de saída altos não aumentam PR (Driving_on_the_left_or_right).
+
+Questão 15 — Aplicações na Wikipédia
+
+Destacar artigos centrais (alto PR) como hubs de leitura.
+
+Explorar artigos de saída alta como guias de exploração.
+
+Usar artigos “ponte” (English_language) para mostrar conexões entre áreas.
+
+Combinar PR com popularidade e qualidade do conteúdo para recomendações personalizadas.

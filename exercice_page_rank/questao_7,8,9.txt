@@ -1,0 +1,64 @@
+Questão 7
+
+O cálculo do PageRank médio por categoria mostra que as áreas mais centrais na rede são:
+
+European Countries (0.001282)
+
+Asian Countries (0.000923)
+
+Countries (0.000805)
+
+Languages (0.000627)
+
+Middle Eastern Countries (0.000586)
+
+Interpretação:
+As áreas relacionadas a Geografia (países e regiões) dominam a rede, pois são pontos de conexão natural em muitos artigos da Wikipédia.
+Além disso, línguas e religião aparecem como áreas fortes, mostrando que temas universais, que servem de referência em muitos contextos, são centrais no grafo.
+
+Questão 8
+
+Foi feita a comparação entre três categorias diferentes, escolhendo o artigo de maior importância (PageRank) em cada uma:
+
+European Countries → France (0.00642)
+
+Asian Countries → India (0.00404)
+
+Countries → United States (0.00957)
+
+O que esses artigos têm em comum?
+
+São nações centrais no cenário mundial, com forte impacto histórico, cultural, político e econômico.
+
+Aparecem como nós de alta interconectividade, ligados a muitos outros artigos de diferentes áreas (história, geografia, guerras, cultura, economia).
+
+Funcionam como “hubs globais” dentro da rede, atraindo links de diversos contextos.
+
+Ou seja: a posição deles é de nós centrais, conectando múltiplas comunidades dentro do grafo da Wikipédia.
+
+Questão 9
+
+As categorias com menor PageRank médio foram:
+
+Artistas (0.000033)
+
+Músicas e composições (0.000043)
+
+Atores/celebridades (0.000049)
+
+Romances (0.000050)
+
+Esportes e jogos (0.000056)
+
+Dinossauros (0.000065)
+
+Interpretação:
+Essas áreas estão ligadas a temas mais especializados ou de nicho, que:
+
+Têm menos conexões externas para outros artigos centrais.
+
+Formam “ilhas” mais fechadas, ou comunidades internas (ex.: obras literárias, celebridades específicas).
+
+Não servem como pontos de passagem obrigatórios para navegação na rede.
+
+Em resumo: elas são menos estruturantes para a navegação geral na Wikipédia, ficando periféricas na rede.

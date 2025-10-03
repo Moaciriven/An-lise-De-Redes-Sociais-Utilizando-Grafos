@@ -1,0 +1,23 @@
+Top 10 artigos por grau de entrada (in-degree):
+United_States, United_Kingdom, France, Europe, World_War_II, England, Germany, India, English_language, London
+
+Top 10 artigos por PageRank:
+United_States, France, Europe, United_Kingdom, English_language, Germany, World_War_II, England, Latin, India
+
+Comparação:
+
+Presentes em ambas as listas: Germany, India, English_language, United_States, United_Kingdom, Europe, France, World_War_II, England
+
+Só no in-degree: London
+
+Só no PageRank: Latin
+
+Interpretação:
+
+In-degree mede popularidade bruta (quantidade de citações).
+
+PageRank mede prestígio estrutural (quantidade e qualidade das citações).
+
+London é muito citado, mas por artigos menos centrais → alto in-degree, PageRank menor.
+
+Latin é citado por artigos influentes → PageRank alto, mesmo com menos citações.
